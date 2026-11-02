@@ -28,35 +28,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
 ## 💼 Projects
 
 ### 🏙️ CleanCity — Smart Waste Management System
 
-A web application for reporting and managing waste-related complaints, with role-based access and secure authentication.
+A waste management application focused on reporting and managing waste-related complaints.
 
-**Technologies:** Java, Spring Boot, Spring Security, MySQL, JWT, Spring Data JPA
-
-**Key Features:**
-- Citizen registration and login
-- JWT-based authentication
-- Complaint management
-- Role-based access for Citizens, Admins and Workers
+**Technologies:** Java, Spring Boot, Spring Security, MySQL, JWT
 
 ### 🎓 CampusFind — Smart Campus Lost & Found Portal
 
 A portal designed to help students report and find lost items on campus.
 
 **Technologies:** Java, Spring Boot, MySQL, Spring Security, JWT
-
-### 🌐 CleanCity — Smart Waste Management Web Interface
-
-A frontend interface for the CleanCity waste management system, with pages for authentication, dashboards and complaint management.
-
-**Technologies:** HTML, CSS, JavaScript
-
----
 
 ## 📚 Currently Learning
 
